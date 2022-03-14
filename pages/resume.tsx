@@ -30,9 +30,9 @@ const Resume = () => {
         <motion.div variants={fadeInUp} initial="initial" animate="animate">
           <h5 className="my-3 text-2xl font-bold">Experience</h5>
           <div className="">
-            <h5 className="my-2 text-xl font-bold">Software Developer Jr.</h5>
+            <h5 className="my-2 text-xl font-bold">Programmer & Software Developer Jr.</h5>
             <p className="font-semibold">Fns Software Upwork & Freelancer</p>
-            <p className="my-3">I do not know why I am doing this job</p>
+            <p className="my-3">I do not know why I am doing this job because Its my passion</p>
           </div>
         </motion.div>
       </div>
