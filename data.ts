@@ -21,9 +21,9 @@ export const services: Service[] = [
   },
   {
     Icon: AiOutlineApi,
-    title: "API Development",
+    title: "Mobile App Development",
     about:
-      "I can develop robust  REST API using <b>django-rest-api</b>  & <b>Node API</b> ",
+      "I can develop  Web and Mobile App also with robust  REST API using  Some Framework and Libraries like <b>django-rest-api</b>  & <b>Node API</b> ",
   },
   {
     Icon: MdDeveloperMode,
